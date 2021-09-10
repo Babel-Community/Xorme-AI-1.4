@@ -809,15 +809,6 @@ courthouse = {
 		#LIMIT
 		modifier = {
 			factor = 0
-			area_for_scope_province = {
-				any_province = {
-					area = PREV
-					is_capital_of = owner
-				}
-			}
-		}
-		modifier = {
-			factor = 0
 			owner = { num_of_loans = 3 }
 		}
 		modifier = {
@@ -2133,15 +2124,6 @@ town_hall = {
 	ai_will_do = {
 		factor = 5.0
 		#LIMIT
-		modifier = {
-			factor = 0
-			area_for_scope_province = {
-				any_province = {
-					area = PREV
-					is_capital_of = owner
-				}
-			}
-		}
 		modifier = {
 			factor = 0
 			owner = { num_of_loans = 3 }
@@ -3739,15 +3721,6 @@ state_house = {
 	ai_will_do = {
 		factor = 1000.0
 		#LIMIT
-		modifier = {
-			factor = 0
-			area_for_scope_province = {
-				any_province = {
-					area = PREV
-					is_capital_of = owner
-				}
-			}
-		}
 		modifier = {
 			factor = 0
 			owner = { num_of_loans = 3 }
