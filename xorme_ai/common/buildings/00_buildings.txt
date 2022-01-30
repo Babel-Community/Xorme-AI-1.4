@@ -3040,7 +3040,6 @@ tradecompany = {
 		ivory
 		slaves
 		spices
-		cloves
 		fur
 		incense
 	}
